@@ -108,7 +108,7 @@ python src/model_training.py
 For confidentiality reasons, the public version of this repository uses a **synthetic dataset** that closely mimics the structure, schema, and statistical behavior of the original Travelers Insurance dataset used in the competition. 
 
 However:
-- The **modeling pipeline**
+- **The modeling pipeline**
 - **Feature engineering steps**
 - **Evaluation methodology**
 - **Business context and findings**
