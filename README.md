@@ -41,9 +41,9 @@ We evaluated multiple models including:
 Primary metric: **Gini Index**
 
 Final Selected Model: **KNN**
-✔ Strong performance  
-✔ Highly interpretable  
-✔ Business friendly
+ Strong performance  
+ Highly interpretable  
+ Business friendly
 
 ---
 
@@ -103,6 +103,18 @@ python src/model_training.py
 - Helps maintain strong customer experience
 
 ---
+
+## Data Confidentiality Notice
+For confidentiality reasons, the public version of this repository uses a **synthetic dataset** that closely mimics the structure, schema, and statistical behavior of the original Travelers Insurance dataset used in the competition. 
+
+However:
+- The **modeling pipeline**
+- **Feature engineering steps**
+- **Evaluation methodology**
+- **Business context and findings**
+
+are all faithfully preserved from the real project work.
+
 
 ## Author
 Everlyn Musembi
